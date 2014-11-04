@@ -235,8 +235,46 @@ namespace Sanguo
             Dictionary<string, object> d = getObject("method", "ncopy.doBattle");
             d["callback"] = getObject("callbackName", "ncopy.doBattle");
             d["token"] = config.token;
+            config.armyID = 490016;
             //config.baseID = config.copyID * 1000 + config.baseID;
             d["args"] = new object[6] { config.copyID, config.baseID, config.baseLevel, config.armyID,new CMixArray(0),config.formation };
+            Send(d);
+        }
+
+        public void do2ndBattle()
+        {
+            Dictionary<string, object> d = getObject("method", "ncopy.doBattle");
+            d["callback"] = getObject("callbackName", "ncopy.doBattle");
+            d["token"] = config.token;
+            config.armyID = 490017;
+            //config.baseID = config.copyID * 1000 + config.baseID;
+            d["args"] = new object[6] { config.copyID, config.baseID, config.baseLevel, config.armyID, new CMixArray(0), config.formation };
+            Send(d);
+        }
+
+        public void do3rdBattle()
+        {
+            Dictionary<string, object> d = getObject("method", "ncopy.doBattle");
+            d["callback"] = getObject("callbackName", "ncopy.doBattle");
+            d["token"] = config.token;
+            config.armyID = 490018;
+            //config.baseID = config.copyID * 1000 + config.baseID;
+            config.formation["4"] = 3011701;
+            d["args"] = new object[6] { config.copyID, config.baseID, config.baseLevel, config.armyID, new CMixArray(0), config.formation };
+            Send(d);
+        }
+
+
+        public void do4thBattle()
+        {
+            Dictionary<string, object> d = getObject("method", "ncopy.doBattle");
+            d["callback"] = getObject("callbackName", "ncopy.doBattle");
+            d["token"] = config.token;
+            config.armyID = 490020;
+            //config.baseID = config.copyID * 1000 + config.baseID;
+            config.formation["4"] = 3011562;
+            config.formation["0"] = 3011561;
+            d["args"] = new object[6] { config.copyID, config.baseID, config.baseLevel, config.armyID, new CMixArray(0), config.formation };
             Send(d);
         }
 
