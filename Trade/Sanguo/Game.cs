@@ -196,6 +196,17 @@ namespace Sanguo
             Send(d);
         }
 
+        public void parseFormation(CNameObjDict co)
+        {
+            CMixArray cm = (CMixArray)co["ret"];
+            Dictionary<string, object> formation =new Dictionary<string,object>();
+            for(int i =0; i<6 ;i++)
+            {
+                formation[i.ToString()] = cm[i];
+            }
+            config.formation = formation;
+        }
+
         public void enterBaseLevel()
         {
             Dictionary<string, object> d = getObject("method", "ncopy.enterBaseLevel");
@@ -214,6 +225,18 @@ namespace Sanguo
             d["token"] = config.token;
             //config.baseID = config.copyID * 1000 + config.baseID;
             d["args"] = new object[4] { config.copyID, config.baseID, config.baseLevel,config.armyID };
+            Send(d);
+        }
+
+
+        public void do1stBattle()
+        {
+
+            Dictionary<string, object> d = getObject("method", "ncopy.doBattle");
+            d["callback"] = getObject("callbackName", "ncopy.doBattle");
+            d["token"] = config.token;
+            //config.baseID = config.copyID * 1000 + config.baseID;
+            d["args"] = new object[6] { config.copyID, config.baseID, config.baseLevel, config.armyID,new CMixArray(0),config.formation };
             Send(d);
         }
 

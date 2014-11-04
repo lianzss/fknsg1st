@@ -109,6 +109,7 @@ namespace Sanguo
                          g.getFormation();
                          break;
                      case "IFormation.getFormation":
+                         g.parseFormation(co);
                          g.enterBaseLevel();
                          break;
                      case "ncopy.enterBaseLevel":
@@ -158,6 +159,8 @@ namespace Sanguo
         {
 
         }
+
+
 
     }
 }

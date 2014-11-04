@@ -26,3 +26,11 @@ Z:\fknsg\Trade\WPE\WPE\WPE\obj\Debug\WPE.Properties.Resources.resources
 Z:\fknsg\Trade\WPE\WPE\WPE\obj\Debug\WPE.csproj.GenerateResource.Cache
 Z:\fknsg\Trade\WPE\WPE\WPE\obj\Debug\WPE.exe
 Z:\fknsg\Trade\WPE\WPE\WPE\obj\Debug\WPE.pdb
+C:\github\fknsg\fknsg\Trade\WPE\WPE\WPE\bin\Debug\WPE.exe
+C:\github\fknsg\fknsg\Trade\WPE\WPE\WPE\bin\Debug\WPE.pdb
+C:\github\fknsg\fknsg\Trade\WPE\WPE\WPE\obj\Debug\ResolveAssemblyReference.cache
+C:\github\fknsg\fknsg\Trade\WPE\WPE\WPE\obj\Debug\WPE.MainForm.resources
+C:\github\fknsg\fknsg\Trade\WPE\WPE\WPE\obj\Debug\WPE.Properties.Resources.resources
+C:\github\fknsg\fknsg\Trade\WPE\WPE\WPE\obj\Debug\WPE.csproj.GenerateResource.Cache
+C:\github\fknsg\fknsg\Trade\WPE\WPE\WPE\obj\Debug\WPE.exe
+C:\github\fknsg\fknsg\Trade\WPE\WPE\WPE\obj\Debug\WPE.pdb

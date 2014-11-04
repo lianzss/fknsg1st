@@ -38,3 +38,16 @@ Z:\fknsg\Trade\Sanguo\bin\Debug\Newtonsoft.Json.pdb
 Z:\fknsg\Trade\Sanguo\bin\Debug\Newtonsoft.Json.xml
 Z:\fknsg\Trade\Sanguo\bin\Debug\WPE.pdb
 Z:\fknsg\Trade\Sanguo\obj\Debug\ResolveAssemblyReference.cache
+C:\github\fknsg\fknsg\Trade\Sanguo\obj\Debug\Sanguo.exe
+C:\github\fknsg\fknsg\Trade\Sanguo\obj\Debug\Sanguo.pdb
+C:\github\fknsg\fknsg\Trade\Sanguo\obj\Debug\ResolveAssemblyReference.cache
+C:\github\fknsg\fknsg\Trade\Sanguo\bin\Debug\Sanguo.exe
+C:\github\fknsg\fknsg\Trade\Sanguo\bin\Debug\Sanguo.pdb
+C:\github\fknsg\fknsg\Trade\Sanguo\bin\Debug\Auxiliary.dll
+C:\github\fknsg\fknsg\Trade\Sanguo\bin\Debug\WPE.exe
+C:\github\fknsg\fknsg\Trade\Sanguo\bin\Debug\SharpPcap.dll
+C:\github\fknsg\fknsg\Trade\Sanguo\bin\Debug\PacketDotNet.dll
+C:\github\fknsg\fknsg\Trade\Sanguo\bin\Debug\Auxiliary.pdb
+C:\github\fknsg\fknsg\Trade\Sanguo\bin\Debug\Newtonsoft.Json.pdb
+C:\github\fknsg\fknsg\Trade\Sanguo\bin\Debug\Newtonsoft.Json.xml
+C:\github\fknsg\fknsg\Trade\Sanguo\bin\Debug\WPE.pdb

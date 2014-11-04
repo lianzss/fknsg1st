@@ -27,3 +27,12 @@ Z:\fknsg\Trade\Auxiliary\bin\Debug\WPE.pdb
 Z:\fknsg\Trade\Auxiliary\obj\Debug\ResolveAssemblyReference.cache
 Z:\fknsg\Trade\Auxiliary\obj\Debug\Auxiliary.dll
 Z:\fknsg\Trade\Auxiliary\obj\Debug\Auxiliary.pdb
+C:\github\fknsg\fknsg\Trade\Auxiliary\bin\Debug\Auxiliary.dll
+C:\github\fknsg\fknsg\Trade\Auxiliary\bin\Debug\Auxiliary.pdb
+C:\github\fknsg\fknsg\Trade\Auxiliary\bin\Debug\WPE.exe
+C:\github\fknsg\fknsg\Trade\Auxiliary\bin\Debug\SharpPcap.dll
+C:\github\fknsg\fknsg\Trade\Auxiliary\bin\Debug\PacketDotNet.dll
+C:\github\fknsg\fknsg\Trade\Auxiliary\bin\Debug\WPE.pdb
+C:\github\fknsg\fknsg\Trade\Auxiliary\obj\Debug\ResolveAssemblyReference.cache
+C:\github\fknsg\fknsg\Trade\Auxiliary\obj\Debug\Auxiliary.dll
+C:\github\fknsg\fknsg\Trade\Auxiliary\obj\Debug\Auxiliary.pdb

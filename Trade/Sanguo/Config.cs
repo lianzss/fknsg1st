@@ -40,6 +40,7 @@ namespace Sanguo
         public Int32 armyID = 1003;
 
         public string filePath = "file.txt";
+        public Dictionary<string, object> formation;
 
 
     }
